@@ -1,0 +1,13 @@
+C:\Users\Windows10\source\repos\BancoTriplo\obj\Debug\netcoreapp3.1\BancoTriplo.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\BancoTriplo\obj\Debug\netcoreapp3.1\BancoTriplo.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\BancoTriplo\obj\Debug\netcoreapp3.1\BancoTriplo.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\BancoTriplo\obj\Debug\netcoreapp3.1\BancoTriplo.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\BancoTriplo\bin\Debug\netcoreapp3.1\BancoTriplo.exe
+C:\Users\Windows10\source\repos\BancoTriplo\bin\Debug\netcoreapp3.1\BancoTriplo.deps.json
+C:\Users\Windows10\source\repos\BancoTriplo\bin\Debug\netcoreapp3.1\BancoTriplo.runtimeconfig.json
+C:\Users\Windows10\source\repos\BancoTriplo\bin\Debug\netcoreapp3.1\BancoTriplo.runtimeconfig.dev.json
+C:\Users\Windows10\source\repos\BancoTriplo\bin\Debug\netcoreapp3.1\BancoTriplo.dll
+C:\Users\Windows10\source\repos\BancoTriplo\bin\Debug\netcoreapp3.1\BancoTriplo.pdb
+C:\Users\Windows10\source\repos\BancoTriplo\obj\Debug\netcoreapp3.1\BancoTriplo.dll
+C:\Users\Windows10\source\repos\BancoTriplo\obj\Debug\netcoreapp3.1\BancoTriplo.pdb
+C:\Users\Windows10\source\repos\BancoTriplo\obj\Debug\netcoreapp3.1\BancoTriplo.genruntimeconfig.cache
